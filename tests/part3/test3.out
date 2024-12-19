@@ -1,0 +1,8 @@
+List 0: 1 -> c -> 3200.00
+List 1: 1 -> 2 -> 3
+int -> char -> float
+Nested 0: {List 1} -> 1 -> c -> 3200.00
+reference -> int -> char -> float
+INVALID COMMAND: VIEW-NESTED
+INVALID COMMAND: VIEW-NESTED
+{1 -> 2 -> 3} -> 1 -> c -> 3200.00
